@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\PruebaAzure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12BE264E-58CD-4EF9-B52B-7B5785EF9989}|PruebaAzure\\PruebaAzure.csproj|c:\\users\\usuario\\source\\repos\\pruebaazure\\pruebaazure\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12BE264E-58CD-4EF9-B52B-7B5785EF9989}|PruebaAzure\\PruebaAzure.csproj|solutionrelative:pruebaazure\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BE264E-58CD-4EF9-B52B-7B5785EF9989}|PruebaAzure\\PruebaAzure.csproj|c:\\users\\usuario\\source\\repos\\pruebaazure\\pruebaazure\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BE264E-58CD-4EF9-B52B-7B5785EF9989}|PruebaAzure\\PruebaAzure.csproj|solutionrelative:pruebaazure\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BE264E-58CD-4EF9-B52B-7B5785EF9989}|PruebaAzure\\PruebaAzure.csproj|c:\\users\\usuario\\source\\repos\\pruebaazure\\pruebaazure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BE264E-58CD-4EF9-B52B-7B5785EF9989}|PruebaAzure\\PruebaAzure.csproj|solutionrelative:pruebaazure\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BE264E-58CD-4EF9-B52B-7B5785EF9989}|PruebaAzure\\PruebaAzure.csproj|c:\\users\\usuario\\source\\repos\\pruebaazure\\pruebaazure\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BE264E-58CD-4EF9-B52B-7B5785EF9989}|PruebaAzure\\PruebaAzure.csproj|solutionrelative:pruebaazure\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BE264E-58CD-4EF9-B52B-7B5785EF9989}|PruebaAzure\\PruebaAzure.csproj|c:\\users\\usuario\\source\\repos\\pruebaazure\\pruebaazure\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BE264E-58CD-4EF9-B52B-7B5785EF9989}|PruebaAzure\\PruebaAzure.csproj|solutionrelative:pruebaazure\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaAzure\\PruebaAzure\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PruebaAzure\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaAzure\\PruebaAzure\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PruebaAzure\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T22:08:17.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaAzure\\PruebaAzure\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PruebaAzure\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaAzure\\PruebaAzure\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PruebaAzure\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:07:45.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaAzure\\PruebaAzure\\Models\\Nota.cs",
+              "RelativeDocumentMoniker": "PruebaAzure\\Models\\Nota.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaAzure\\PruebaAzure\\Models\\Nota.cs",
+              "RelativeToolTip": "PruebaAzure\\Models\\Nota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:06:17.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaAzure\\PruebaAzure\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PruebaAzure\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaAzure\\PruebaAzure\\Models\\Usuario.cs",
+              "RelativeToolTip": "PruebaAzure\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:04:05.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PruebaAzure\\PruebaAzure\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PruebaAzure\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PruebaAzure\\PruebaAzure\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PruebaAzure\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:03:40.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

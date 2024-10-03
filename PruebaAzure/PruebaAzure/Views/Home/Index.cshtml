@@ -1,0 +1,19 @@
+﻿@model Usuario
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1>Bienvenido @Model.Name</h1>
+    <h2 class="display-4">Tus notas</h2>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@foreach(var nota in Model.Notas)
+{
+    <div class="conteiner card">
+        <p>@nota.Content</p>
+    </div>
+}
